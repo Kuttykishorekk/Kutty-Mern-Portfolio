@@ -295,9 +295,9 @@ const projectcards = {
     },
 
     {
-      title: "Full Stack MERN Social Media",
+      title: "Full Stack MERN Portfolio Website",
       img_path: "mern.png",
-      description: "Full Stack Social Media Website with MERN stack.",
+      description: "Full Stack Portfolio Website with NodeJS and React.",
       tags: [
         {
           lang: "React",
@@ -321,9 +321,9 @@ const projectcards = {
         },
       ],
       link:
-        "https://github.com/Zorrat/MERN-SocialMedia/tree/master/react-front",
+        "https://github.com/Kuttykishorekk/Kutty-Mern-Portfolio.git",
       code:
-        "https://github.com/Zorrat/MERN-SocialMedia/tree/master/react-front",
+        "https://github.com/Kuttykishorekk/Kutty-Mern-Portfolio.git",
       linkcolor: "white",
     },
     {
